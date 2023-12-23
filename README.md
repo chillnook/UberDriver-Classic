@@ -13,7 +13,7 @@ Official open source repository for the current release version [Uber Driver Mod
 [Download](https://www.gta5-mods.com/scripts/uber-driver-revamped/download/137418)
 
 # For Developers
-If you are looking to modify version **DEVELOPMENT** 1.0 (current development release), please refer to [here.](https://github.com/chillnook/UberDriverMod/tree/main)
+If you are looking to modify version **DEVELOPMENT** 1.0 (current development release), please refer to [here.](https://github.com/chillnook/UberDriverMod)
 
 If you'd like to modify the code or create your own version of the mod, please clone the repository and open the project files in your IDE.
 
