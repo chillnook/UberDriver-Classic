@@ -21,5 +21,4 @@ If you'd like to modify the code or create your own version of the mod, please c
 Check out the forks of the mod [here.](https://github.com/chillnook/UberDriver_ALPHA_0.3.1/forks)
 
 # Important Notice
-This mod is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by Uber. All product and company names are the registered trademarks of their
-original owners. If necessitated, a title alteration will ensue.
+This mod is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by Uber. All product and company names are the registered trademarks of their original owners. If necessitated, the title of the mod will be modified to comply with trademark guidelines.
